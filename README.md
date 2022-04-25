@@ -5,10 +5,9 @@
 <div align="center">
   <a href="https://github.com/JorgeSegantini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jorgesegantini&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-@@ -8,7 +8,7 @@
 <i class="devicon-javascript-plain colored"></i>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />       
+<img weight="150em" height="180em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+<img weight="150em" height="180em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />       
           
 </div>
 
