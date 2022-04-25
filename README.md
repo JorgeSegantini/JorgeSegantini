@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-## Olá, de boas? Me chamo Jorge Segantini e estou começando a aprender desenvolvimento, se quiser dar uma olhada no perfil e quiser tirar alguma dúvida estou a disposição.
-## Olá, de boas? Me chamo Jorge Segantini e estou começando a aprender desenvolvimento, se quiser dar uma olhada no perfil e quiser tirar alguma dúvida estou a disposição.
+<H1>Olá, Me chamo Jorge Segantini</h1>
+
+<p> Estou aprendendo a desenvolver agora, começei com um curso no udemy de logica de programação e estou fazendo o curso de back e front end da Gama Academy, se quiser dar uma olhada no perfil e tirar alguma dúvida estou a disposição.</p>
+
 <div align="center">
   <a href="https://github.com/JorgeSegantini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jorgesegantini&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
